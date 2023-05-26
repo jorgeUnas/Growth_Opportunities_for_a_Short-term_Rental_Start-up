@@ -1,1 +1,1 @@
-# Growth_Opportunities_for_a_Short-term_Rental_Start-up
+# Growth Opportunities for a Short-term Rental Start-up
