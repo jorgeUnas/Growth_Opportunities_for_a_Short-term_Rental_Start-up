@@ -42,3 +42,17 @@ The data engineer team kindly return me with the schema of Figure 1 where they i
 <p align= "center">
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/ERD.jpg" height="400"> 
 </p>
+Figure 1. Schema for Airbnb created by the data engineering team of Pillow Palooza
+
+As expected, the booking timestamps were not available for us because our company is a competitor using public information from Airbnb. This makes it not possible to know how the demand for short-term rentals has changed over time. However, we still have some information about the reviews that can give us an idea of which month/season we can expect to have more reviews to boost our visibility.
+
+Although it is straightforward to answer our initial questions using SQL1, it is better to interpret the result using visualizations. For that reason, in the next section, I will proceed to use a Tableau dashboard to discuss these answers and other remarkable insights. 
+
+To proceed with the use of Tableau the three tables were joined using SQL as follows: 
+
+``sql
+SELECT all
+FROM tres
+``
+
+
