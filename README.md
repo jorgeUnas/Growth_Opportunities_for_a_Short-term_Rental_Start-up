@@ -50,9 +50,29 @@ Although it is straightforward to answer our initial questions using SQL1, it is
 
 To proceed with the use of Tableau the three tables were joined using SQL as follows: 
 
-``sql
-SELECT all
-FROM tres
-``
+``` sql
+SELECT p.listing_id,
+       p.price,
+       p.borough,
+       p.neighbourhood,
+       p.price_per_month,
+       p.latitude,
+       p.longitude,
+       rt.description,
+       rt.room_type,
+       r.host_name,
+       r.last_review,
+       r.minimum_nights,
+       r.number_of_reviews,
+       r.reviews_per_month,
+       r.calculated_host_listings_count,
+       r.availability_365,
+       r.booked_days_365
+FROM prices p
+FULL JOIN reviews r
+ON p.listing_id = r.listing_id
+FULL JOIN room_types rt
+ON r.listing_id = rt.listing_id;
+```
 
 
