@@ -5,7 +5,7 @@
 <img src="https://static01.nyt.com/images/2019/05/29/realestate/00skyline-south4/88ce0191bfc249b6aae1b472158cccc4-superJumbo.jpg" height="200"> 
 </p>
 
-New York City is one of the preferred destinations for around 5 million tourists every month. That's why it is a place where listing companies, such as Pillow Palooza can flourish by catering to the high demand for temporary lodging among travelers. In order to maximize revenue and occupancy rates for our company, I conducted an analysis of publicly available data from [Airbnb](https://www.airbnb.com/), a well-known player in the rental industry. Utilizing **`Python`** for data wrangling and cleaning, SQL for data exploration and gathering and, presenting the results through a **`Tableau`** dashboard, I got valuable insights and actionable recommendations to make our company succeed in the competitive rental market and attract potential investors.
+New York City is one of the preferred destinations for around 5 million tourists every month. That's why it is a place where listing companies, such as Pillow Palooza can flourish by catering to the high demand for temporary lodging among travelers. In order to maximize revenue and occupancy rates for our company, I conducted an analysis of publicly available data from [Airbnb](https://www.airbnb.com/), a well-known player in the rental industry. Utilizing **`Python`** for data wrangling and cleaning, **`SQL`** for data exploration and gathering and, presenting the results through a **`Tableau`** dashboard, I got valuable insights and actionable recommendations to make our company succeed in the competitive rental market and attract potential investors.
 
 
 ## Context
@@ -74,5 +74,19 @@ ON p.listing_id = r.listing_id
 FULL JOIN room_types rt
 ON r.listing_id = rt.listing_id;
 ```
+
+## Data Analysis in Tableau
+
+### Dashboard description:
+
+Three of the main metrics under study are always displayed on the top of the dashboard: Average listing price, average listing price per month and average number of booked days. Take into account that these metrics are related to the overall number of listings in NYC that use Airbnb and change depending on the filters from each plot. The stacked bar plot represents the average metric by borough and room type. There is a dropdown next to the title to select a metric to be visualized in the plot. By clicking any of the borough(s) and/or room type the information of the entire dashboard is filtered. 
+The second bar plot organizes the neighbourhoods from the higher to the lowest average listing price and displays just the top-N of them. There is also a dropdown to select another metric to sort the neighbourhoods. The options are the number of listings, the average of booked days/year, the average price per month and the total revenue. Notice that, this bar plot determines the neighbourhoods and the metric that are displayed in the treemap and in the map. The treemap allows us to be more granular with information about the top-N neighbourhoods. For example, Murray Hill is the place with the most expensive shared rooms among these neighbourhoods.
+Additionally, observe that a tooltip pops in when you hover the cursor over each bar of the plot. This tooltip contains a pie chart that gives an idea of the proportion of each room type for that specific neighbourhood. 
+
+### Business questions and insights:
+
+1.	What are the most popular neighbourhoods for short-term rentals in New York City?
+
+The 10 most popular neighbourhoods according to the largest number of listings are shown in Figure 2. As expected, these neighbourhoods are located in the most tourist areas of Manhattan and Brooklyn, such as Times Square, Chinatown, DUMBO, Prospect Park, Bushwick, and Greenpoint. The most popular room type in these neighbourhoods is entire homes/apartments. 
 
 
