@@ -39,3 +39,6 @@ Once consistent and reliable datasets were obtained, a couple of requirements we
 
 The data engineer team kindly return me with the schema of Figure 1 where they included extra columns to enhance the analysis. 
 
+<p align= "center">
+<img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/ERD.jpg)https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/ERD.jpg" height="200"> 
+</p>
