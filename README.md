@@ -1,4 +1,4 @@
-# Growth Opportunities for a Short-term Rental Start-up
+![image](https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/assets/106410793/0f5ecd8a-05ee-410c-8991-d9fcaa0c9c1b)![image](https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/assets/106410793/2c1fd7c3-35d8-4b3c-a21a-e3a243e48174)# Growth Opportunities for a Short-term Rental Start-up
 
 
 <p align= "center">
@@ -91,5 +91,39 @@ Additionally, observe that a tooltip pops in when you hover the cursor over each
 1.	What are the most popular neighbourhoods for short-term rentals in New York City?
 
 The 10 most popular neighbourhoods according to the largest number of listings are shown in Figure 2. As expected, these neighbourhoods are located in the most tourist areas of Manhattan and Brooklyn, such as Times Square, Chinatown, DUMBO, Prospect Park, Bushwick, and Greenpoint. The most popular room type in these neighbourhoods is entire homes/apartments. 
+
+
+2.	What is the average rental price for short-term rentals in New York City, and which neighbourhoods and property types have the higher average rental price? 
+
+The average Airbnb rental price in NYC in 2019 was $142 per listing, while the average monthly price was $4,314. However, it's important to consider that the average monthly price was calculated based on the assumption that the listings are rented for all 365 days of the year. This indicates that the actual average price is likely lower than this figure. Additionally, the monthly price offered by Airbnb tends to be higher than the average monthly rental price in the private rental market. This is because Airbnb has fewer regulations on the price of the listings than the private rental market, which makes this business model so appealing to hosts. 
+
+Among the ten neighbourhoods (Figure 3) with the highest average rental prices, three stand out for providing a quieter experience to tourists compared to the bustling neighbourhoods located in Manhattan and Brooklyn: Sea Gate, Neposit, and Willowbrook. These neighbourhoods are exclusively dominated by Airbnb listings that are entire homes/apartments. Then, this presents an opportunity for Pillow Palooza to differentiate itself from Airbnb by promoting the renting of private and shared rooms in these areas. However, Neposit, being a luxury area frequently visited by famous people, may pose additional challenges compared to the other two neighbourhoods.
+
+
+3. What are the most commonly rented property types on Airbnb in New York City, and how does this vary by neighbourhood? 
+
+By selecting all 216 neighbourhoods in the dropdown, the treemap shows that the most common rented listings in NYC are entire homes/apartments, followed closely by private rooms (Figure 4). At this point, I consider it appropriate to mention that if Pillow Palooza wants to position itself as a competitor of Airbnb, we have to find a way to differentiate from this company and others of the same style. In that sense, my recommendation is to focus our attention on hosts offering private rooms and shared rooms. In the next question, I will elaborate on this idea.
+
+
+4. What is the average number of days short-term rentals in New York City are booked in a year, and how does this vary by neighbourhood and property type?
+
+Since I consider it is important that Pillow Palooza explore opportunities not yet covered by Airbnb, I recommend focusing our marketing strategies on places where Airbnb is strong but the market is not overly saturated as it is in the neighbourhoods belonging to Manhattan and Brooklyn. For that reason, I set apart the top neighbourhoods by the number of booked days per year that are located out of those areas (Figure 5). All of these neighbourhoods are located in State Island where Airbnb offers entire homes/apartments and private rooms but not shared rooms. Consequently, my recommendation to our company is to promote the rental of shared rooms in these neighbourhoods. This is an idea that some rental companies, such as Ollie and Common, have successfully explored in NYC. These companies would be our direct competitors, especially Common, which has achieved a significant annual revenue of $37.5 million. 
+
+Shared rooms are a popular choice among students and individuals seeking affordable short-term rentals. Additionally, due to the growing popularity of platforms like Airbnb, many permanent residents in NYC also opt for shared rooms as long-term housing options become limited. This is because hosts often find short-term rentals to be more profitable, and Airbnb capitalizes on this by intentionally increasing prices.
+
+
+5. How has the demand for short-term rentals in New York City changed over time, and are there any monthly/seasonal trends that could impact business decisions?
+
+This question cannot be fully answered with the public data available because, as competitors, we do not have access to the booking timestamps of Airbnb. The only historical data we possess pertains to the date of the last review for each listing. The chat in Figure 6 is an attempt to get historical information based on the dates of the last reviews. However, it is important no misinterpret this plot. Without the dates of previous reviews, we cannot say there is a tendency for users to provide the majority of their reviews during the summer. I recommend that the data engineering team obtain the dates of previous reviews, which will allow us to understand in which months/seasons Pillow Palooza could expect more reviews. This way, we will know the best time to boost our visibility to the public.
+
+
+###Recommendations
+
+-	As Pillow Palooza is going to incursion as a new rental company in a place where this market is very dynamic, I highly recommend following the market experience of Airbnb but trying to differentiate itself from this competitor to get visibility. For example, I recommend focusing our marketing efforts on neighbourhoods where Airbnb has high revenues but offers a quiet tourist experience, unlike the neighbourhoods in Manhattan and Brooklyn. Examples of such neighbourhoods are Seat Gate, Neponsit and Willowbrook. As these neighbourhoods are calmer, we can incentivize tourists to rent private or shared rooms as a safe and cheaper alternative to entire homes/apartments. 
+-	A similar approach that was applied to the listing prices can also be used for the number of booked days. We could focus our attention on neighbourhoods where the listings have the highest occupancy throughout the year and are located outside of oversaturated areas of NYC like Manhattan and Brooklyn. Examples of such neighbourhoods on Staten Island include Emerson Hill, Lighthouse Hill, Prince's Bay, New Springville, and Rossville, which are located on Staten Island. Upon examining the types of rooms available on Airbnb in these areas, we find that shared rooms are not being offered. This presents a great opportunity for Pilow Palooza to promote the rental of shared rooms in these neighbourhoods and quickly gain visibility not only among tourists but among students and local residents looking for cheaper alternatives to long-term rentals.
+-	I highly recommend researching historical data on previous reviews. This will help us understand the months or seasons during which Pillow Palooza can anticipate a higher number of reviews. By doing so, we can determine the optimal time to enhance our visibility to the public.
+![image](https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/assets/106410793/637868b7-3842-4b4e-8bf4-5b2a4c4a574b)
+
+
 
 
