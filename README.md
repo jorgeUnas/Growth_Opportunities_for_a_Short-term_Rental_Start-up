@@ -117,12 +117,12 @@ Shared rooms are a popular choice among students and individuals seeking afforda
 This question cannot be fully answered with the public data available because, as competitors, we do not have access to the booking timestamps of Airbnb. The only historical data we possess pertains to the date of the last review for each listing. The chat in Figure 6 is an attempt to get historical information based on the dates of the last reviews. However, it is important no misinterpret this plot. Without the dates of previous reviews, we cannot say there is a tendency for users to provide the majority of their reviews during the summer. I recommend that the data engineering team obtain the dates of previous reviews, which will allow us to understand in which months/seasons Pillow Palooza could expect more reviews. This way, we will know the best time to boost our visibility to the public.
 
 
-###Recommendations
+## Recommendations
 
 -	As Pillow Palooza is going to incursion as a new rental company in a place where this market is very dynamic, I highly recommend following the market experience of Airbnb but trying to differentiate itself from this competitor to get visibility. For example, I recommend focusing our marketing efforts on neighbourhoods where Airbnb has high revenues but offers a quiet tourist experience, unlike the neighbourhoods in Manhattan and Brooklyn. Examples of such neighbourhoods are Seat Gate, Neponsit and Willowbrook. As these neighbourhoods are calmer, we can incentivize tourists to rent private or shared rooms as a safe and cheaper alternative to entire homes/apartments. 
 -	A similar approach that was applied to the listing prices can also be used for the number of booked days. We could focus our attention on neighbourhoods where the listings have the highest occupancy throughout the year and are located outside of oversaturated areas of NYC like Manhattan and Brooklyn. Examples of such neighbourhoods on Staten Island include Emerson Hill, Lighthouse Hill, Prince's Bay, New Springville, and Rossville, which are located on Staten Island. Upon examining the types of rooms available on Airbnb in these areas, we find that shared rooms are not being offered. This presents a great opportunity for Pilow Palooza to promote the rental of shared rooms in these neighbourhoods and quickly gain visibility not only among tourists but among students and local residents looking for cheaper alternatives to long-term rentals.
 -	I highly recommend researching historical data on previous reviews. This will help us understand the months or seasons during which Pillow Palooza can anticipate a higher number of reviews. By doing so, we can determine the optimal time to enhance our visibility to the public.
-![image](https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/assets/106410793/637868b7-3842-4b4e-8bf4-5b2a4c4a574b)
+
 
 
 
