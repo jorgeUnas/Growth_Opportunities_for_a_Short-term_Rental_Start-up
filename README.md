@@ -1,6 +1,3 @@
-![image](https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/assets/106410793/0f5ecd8a-05ee-410c-8991-d9fcaa0c9c1b)![image](https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/assets/106410793/2c1fd7c3-35d8-4b3c-a21a-e3a243e48174)# Growth Opportunities for a Short-term Rental Start-up
-
-
 <p align= "center">
 <img src="https://static01.nyt.com/images/2019/05/29/realestate/00skyline-south4/88ce0191bfc249b6aae1b472158cccc4-superJumbo.jpg" height="200"> 
 </p>
