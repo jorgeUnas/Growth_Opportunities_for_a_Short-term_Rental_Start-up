@@ -7,6 +7,8 @@
 
 New York City is one of the preferred destinations for around 5 million tourists every month. That's why it is a place where listing companies, such as Pillow Palooza can flourish by catering to the high demand for temporary lodging among travelers. In order to maximize revenue and occupancy rates for our company, I conducted an analysis of publicly available data from [Airbnb](https://www.airbnb.com/), a well-known player in the rental industry. Utilizing **`Python`** for data wrangling and cleaning, **`SQL`** for data exploration and gathering and, presenting the results through a **`Tableau`** dashboard, I got valuable insights and actionable recommendations to make our company succeed in the competitive rental market and attract potential investors.
 
+<a> [Video Presentation](https://drive.google.com/file/d/1tnJMGncje1ocSYc1dwRsE46Xb4D2ll2d/view?usp=drive_link) </a>
+<a> [Tableau Dashboard](https://public.tableau.com/app/profile/jorge.humberto.unas.daza3556/viz/NYCShort-TermRentalStart-Up/Dashboard1?publish=yes) </a>
 
 ## Context
 
