@@ -98,6 +98,7 @@ The 10 most popular neighbourhoods according to the largest number of listings a
 <p align= "center">Figure 2. The most popular neighbourhoods for short-term rentals in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
 
 
+
 2.	What is the average rental price for short-term rentals in New York City, and which neighbourhoods and property types have the higher average rental price? 
 
 The average Airbnb rental price in NYC in 2019 was $142 per listing, while the average monthly price was $4,314. However, it's important to consider that the average monthly price was calculated based on the assumption that the listings are rented for all 365 days of the year. This indicates that the actual average price is likely lower than this figure. Additionally, the monthly price offered by Airbnb tends to be higher than the average monthly rental price in the private rental market. This is because Airbnb has fewer regulations on the price of the listings than the private rental market, which makes this business model so appealing to hosts. 
@@ -112,6 +113,7 @@ Among the ten neighbourhoods (Figure 3) with the highest average rental prices, 
 </p>
 <p align= "center">Figure 3. Average rental price for short-term rentals in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
 
+
 3. What are the most commonly rented property types on Airbnb in New York City, and how does this vary by neighbourhood? 
 
 By selecting all 216 neighbourhoods in the dropdown, the treemap shows that the most common rented listings in NYC are entire homes/apartments, followed closely by private rooms (Figure 4). At this point, I consider it appropriate to mention that if Pillow Palooza wants to position itself as a competitor of Airbnb, we have to find a way to differentiate from this company and others of the same style. In that sense, my recommendation is to focus our attention on hosts offering private rooms and shared rooms. In the next question, I will elaborate on this idea.
@@ -120,6 +122,7 @@ By selecting all 216 neighbourhoods in the dropdown, the treemap shows that the 
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/the%20most%20commonly%20rented%20property%20types.png" height="400"> 
 </p>
 <p align= "center">Figure 4. Most commonly rented property types on Airbnb in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
+
 
 4. What is the average number of days short-term rentals in New York City are booked in a year, and how does this vary by neighbourhood and property type?
 
@@ -136,6 +139,7 @@ Shared rooms are a popular choice among students and individuals seeking afforda
 <p align= "center">Figure 5. Average number of days short-term rentals in New York City are booked in a year (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
 
 
+
 5. How has the demand for short-term rentals in New York City changed over time, and are there any monthly/seasonal trends that could impact business decisions?
 
 This question cannot be fully answered with the public data available because, as competitors, we do not have access to the booking timestamps of Airbnb. The only historical data we possess pertains to the date of the last review for each listing. The chat in Figure 6 is an attempt to get historical information based on the dates of the last reviews. However, it is important no misinterpret this plot. Without the dates of previous reviews, we cannot say there is a tendency for users to provide the majority of their reviews during the summer. I recommend that the data engineering team obtain the dates of previous reviews, which will allow us to understand in which months/seasons Pillow Palooza could expect more reviews. This way, we will know the best time to boost our visibility to the public.
@@ -145,6 +149,7 @@ This question cannot be fully answered with the public data available because, a
 </p>
 
 <p align= "center">Figure 6. Number of latest review in each borough (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
+
 
 
 ## Recommendations
