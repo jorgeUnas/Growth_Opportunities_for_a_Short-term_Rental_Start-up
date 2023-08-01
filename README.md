@@ -93,7 +93,7 @@ The 10 most popular neighbourhoods according to the largest number of listings a
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/most%20popular%20neighbourhoods.png" height="400"> 
 </p>
 <p align= "center">
-<img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/Dashboard%201%20copy.png" height="200"> 
+<img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/Dashboard%201%20copy.png" height="100"> 
 </p>
 
 2.	What is the average rental price for short-term rentals in New York City, and which neighbourhoods and property types have the higher average rental price? 
