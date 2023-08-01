@@ -90,7 +90,7 @@ Additionally, observe that a tooltip pops in when you hover the cursor over each
 The 10 most popular neighbourhoods according to the largest number of listings are shown in Figure 2. As expected, these neighbourhoods are located in the most tourist areas of Manhattan and Brooklyn, such as Times Square, Chinatown, DUMBO, Prospect Park, Bushwick, and Greenpoint. The most popular room type in these neighbourhoods is entire homes/apartments. 
 
 <p align= "center">
-<img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/most%20popular%20neighbourhoods.png" height="200"> 
+<img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/most%20popular%20neighbourhoods.png" height="400"> 
 </p>
 <p align= "center">
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/Dashboard%201%20copy.png" height="200"> 
