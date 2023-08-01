@@ -42,7 +42,7 @@ The data engineer team kindly return me with the schema of Figure 1 where they i
 <p align= "center">
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/ERD.jpg" height="400"> 
 </p>
-Figure 1. Schema for Airbnb created by the data engineering team of Pillow Palooza
+<p align= "center">Figure 1. Schema for Airbnb created by the data engineering team of Pillow Palooza</p>
 
 As expected, the booking timestamps were not available for us because our company is a competitor using public information from Airbnb. This makes it not possible to know how the demand for short-term rentals has changed over time. However, we still have some information about the reviews that can give us an idea of which month/season we can expect to have more reviews to boost our visibility.
 
@@ -95,7 +95,7 @@ The 10 most popular neighbourhoods according to the largest number of listings a
 <p align= "center">
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/Dashboard%201%20copy.png" height="150"> 
 </p>
-Figure 2. The most popular neighbourhoods for short-term rentals in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)
+<p align= "center">Figure 2. The most popular neighbourhoods for short-term rentals in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
 
 
 2.	What is the average rental price for short-term rentals in New York City, and which neighbourhoods and property types have the higher average rental price? 
@@ -110,7 +110,8 @@ Among the ten neighbourhoods (Figure 3) with the highest average rental prices, 
 <p align= "center">
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/average%20rental%20price%202.png" height="150"> 
 </p>
-Figure 3. Average rental price for short-term rentals in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)
+<p align= "center">Figure 3. Average rental price for short-term rentals in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
+
 3. What are the most commonly rented property types on Airbnb in New York City, and how does this vary by neighbourhood? 
 
 By selecting all 216 neighbourhoods in the dropdown, the treemap shows that the most common rented listings in NYC are entire homes/apartments, followed closely by private rooms (Figure 4). At this point, I consider it appropriate to mention that if Pillow Palooza wants to position itself as a competitor of Airbnb, we have to find a way to differentiate from this company and others of the same style. In that sense, my recommendation is to focus our attention on hosts offering private rooms and shared rooms. In the next question, I will elaborate on this idea.
@@ -118,8 +119,8 @@ By selecting all 216 neighbourhoods in the dropdown, the treemap shows that the 
 <p align= "center">
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/the%20most%20commonly%20rented%20property%20types.png" height="400"> 
 </p>
+<p align= "center">Figure 4. Most commonly rented property types on Airbnb in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
 
-Figure 4. Most commonly rented property types on Airbnb in New York City (Blue = entire room/apt, yellow = private room, pink = shared room)
 4. What is the average number of days short-term rentals in New York City are booked in a year, and how does this vary by neighbourhood and property type?
 
 Since I consider it is important that Pillow Palooza explore opportunities not yet covered by Airbnb, I recommend focusing our marketing strategies on places where Airbnb is strong but the market is not overly saturated as it is in the neighbourhoods belonging to Manhattan and Brooklyn. For that reason, I set apart the top neighbourhoods by the number of booked days per year that are located out of those areas (Figure 5). All of these neighbourhoods are located in State Island where Airbnb offers entire homes/apartments and private rooms but not shared rooms. Consequently, my recommendation to our company is to promote the rental of shared rooms in these neighbourhoods. This is an idea that some rental companies, such as Ollie and Common, have successfully explored in NYC. These companies would be our direct competitors, especially Common, which has achieved a significant annual revenue of $37.5 million. 
@@ -132,7 +133,8 @@ Shared rooms are a popular choice among students and individuals seeking afforda
 <p align= "center">
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/Average%20number%20of%20days%20are%20booked%20in%20a%20year%202.png" height="150"> 
 </p>
-Figure 5. Average number of days short-term rentals in New York City are booked in a year (Blue = entire room/apt, yellow = private room, pink = shared room)
+<p align= "center">Figure 5. Average number of days short-term rentals in New York City are booked in a year (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
+
 
 5. How has the demand for short-term rentals in New York City changed over time, and are there any monthly/seasonal trends that could impact business decisions?
 
@@ -142,7 +144,8 @@ This question cannot be fully answered with the public data available because, a
 <img src="https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up/blob/main/How%20did%20demand%20for%20short-term%20rentals%20changed%20over%20time.png" height="400"> 
 </p>
 
-Figure 6. Number of latest review in each borough (Blue = entire room/apt, yellow = private room, pink = shared room)
+<p align= "center">Figure 6. Number of latest review in each borough (Blue = entire room/apt, yellow = private room, pink = shared room)</p>
+
 
 ## Recommendations
 
